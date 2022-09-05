@@ -8,3 +8,5 @@ display content on line 3
 long file name still a good file
 ls can list and save
 echo to write and create a file
+11th task makes directories count
+10th deletes all regular files
