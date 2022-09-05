@@ -21,3 +21,4 @@ comand to replace all characters A and C input to Z and e respectively
 command to create a script that removes all letters c and c from input
 command that write a script that reverse its input
 command that display all users and their home directories sorted
+Script that duplicates the last line of the file
