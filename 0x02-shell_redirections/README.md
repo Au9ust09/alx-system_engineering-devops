@@ -1,3 +1,2 @@
-echo script prints "Hello, World"
-echo (Ôo) writes a script that displays a confused emoji
-echo inputs a confusing emoji script
+echo script prints "Hello, World" 
+echo inputs confusing emoji script
