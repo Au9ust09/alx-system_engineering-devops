@@ -7,3 +7,4 @@ head displays the first 10 lines
 display content on line 3
 long file name still a good file
 ls can list and save
+echo to write and create a file
