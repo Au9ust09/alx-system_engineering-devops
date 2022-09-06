@@ -5,3 +5,4 @@ ls the long format
 ls can list hidden files
 ls can list numbers
 mkdir equals to welcome
+additional shell basics navigation codes
