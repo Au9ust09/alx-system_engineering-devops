@@ -22,3 +22,7 @@ command to create a script that removes all letters c and c from input
 command that write a script that reverse its input
 command that display all users and their home directories sorted
 Script that duplicates the last line of the file
+command that finds all empty files and directories
+command that write a script that list all the files with a gif
+command that decodoes acrostics that use the first letter
+command that writes a script that parases web servers logs in TSV
