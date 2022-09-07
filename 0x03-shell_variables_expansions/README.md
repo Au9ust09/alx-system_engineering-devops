@@ -5,3 +5,4 @@ counting PATH
 displaying variable
 creating a new local variable
 global variable creation
+addition with shell
