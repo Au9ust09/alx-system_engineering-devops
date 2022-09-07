@@ -7,3 +7,4 @@ ls can list numbers
 mkdir equals to welcome
 additional shell basics navigation codes
 more scripts for shell basics
+additional scripts for shell scripting
