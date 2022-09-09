@@ -12,3 +12,4 @@ script that sets mode as same olleh
 scripts that adds execute permissions
 script that makes directory with permission
 script to change group
+scripts for advanced tasks
